@@ -1,5 +1,4 @@
- 
- <!DOCTYPE html>
+
 <html>
 <body>
 				<h2>🖥️Luckyjet bot activation </h2>
